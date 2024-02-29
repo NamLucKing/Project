@@ -5,7 +5,7 @@
   
 <h1>PLANT PATHOLOGY</h1>
 
-<p>It's a versatile ASP.NET Core 7.0 application with integrated authentication and authorization, user account management, and book information management. The application uses Entity Framework Core to connect and manage a SQL Server database.</p>
+<p>PLANT PATHOLOGY</p>
 
 <h2>Main Features</h2>
 
